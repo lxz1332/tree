@@ -1,0 +1,13 @@
+{
+    "name": "cwkj/tree",
+    "description": "各类树处理函数",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload":{
+		"psr-4":{
+			"cwkj\\tree\\":"src/"
+		}
+	}
+}
